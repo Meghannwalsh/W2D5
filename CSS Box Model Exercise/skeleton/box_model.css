@@ -1,0 +1,32 @@
+div {
+  height: 200px;
+
+  width: 200px;
+
+  padding: 50px;
+
+  border: 5px solid black;
+
+} 
+
+#first-div {
+  background-color: #39cccc;
+}
+
+#second-div {
+  box-sizing: border-box;
+  background-color: #ff4136;
+}
+
+#third-div {
+  height: 2px;
+  /* overflow: auto; */
+  display:flex;
+  background-color: yellow
+}
+
+p {
+  height: 300px;
+  width: 400px;
+  background-color: #7fdbff;
+}
